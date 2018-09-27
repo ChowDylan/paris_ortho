@@ -1,0 +1,9 @@
+ Start Time: 23:52 09-25-2018 
+ End Time: 23:52 09-25-2018 
+ Time Elapsed: 0:00:00 
+ New Orders: 1 Sub Orders: 0 / 0
+==========================
+FLAGGED ORDERS OF INTEREST
+==========================
+[PO# 114092] [WO# ] JAMES  BERRY ['Foot2Scan missing'] 
+

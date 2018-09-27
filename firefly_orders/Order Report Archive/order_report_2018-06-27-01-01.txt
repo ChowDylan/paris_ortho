@@ -1,0 +1,50 @@
+ Start Time: 01:01 06-27-2018 
+ End Time: 01:01 06-27-2018 
+ Time Elapsed: 0:00:00.717000
+==========================
+FLAGGED ORDERS OF INTEREST
+==========================
+1 = [WO# ] ALE-X  M'UNRO  RRU On Time [PO# 108092] ['Out Growth', 'Child Device Used', 'Fill Difference', 'hold request'] 
+
+2 = [WO# ] D 75038 JONES SUB RRU On Time [PO# 108093] ['sameday suborder'] 
+
+3 = [WO# ] 557411 A  RRU On Time [PO# 108094] ['IW removed'] 
+
+4 = [WO# ] B 179431 MCCOMB  RRU On Time [PO# 108095] ['foot to scan'] 
+
+8 = [WO# ] NICHOLAS  GREGORY  Standard [PO# 108099] ['Out Growth'] 
+
+11 = [WO# ] AARON  WATTS  Standard [PO# 108102] ['Out Growth', 'Child Device Used'] 
+
+19 = [WO# ] ALISON  MCKEOWN  Standard [PO# 108110] ['hold request'] 
+
+21 = [WO# ] KAY  HAMMOND  3day Rush [PO# 108112] ['alternate address', 'alternate address'] 
+
+32 = [WO# ] PAULINE  COOMBES SUB Standard [PO# 108123] ['LFE Order'] 
+
+33 = [WO# ] TOM  HEALEY SUB RRU On Time [PO# 108124] ['LFE Order'] 
+
+35 = [WO# ] 98753 RAI SUB 3day Rush [PO# 108126] ['LFE Order'] 
+
+36 = [WO# ] 81302 STRANGE SUB RRU On Time [PO# 108127] ['LFE Order'] 
+
+37 = [WO# ] ANDY  HARVEY SUB 3day Rush [PO# 108128] ['alternate address'] 
+
+44 = [WO# ] TYAS 07734 PETERSON SUB 3day Rush [PO# 108135] ['LFE Order'] 
+
+49 = [WO# ] NICOLA  JAMES SUB Standard [PO# 108140] ['LFE Order'] 
+
+50 = [WO# ] RHIAN  WILLIAMS-FLEW SUB Standard [PO# 108141] ['LFE Order'] 
+
+64 = [WO# ] 439837 TALBOT SUB Standard [PO# 120004] ['buddy order'] 
+
+66 = [WO# ] EVANDRO 186 SOLDATI SUB RRU On Time [PO# 120006] ['buddy order', 'missing prev_po'] 
+
+67 = [WO# ] PATRICK  LEBLANC  RRU On Time [PO# 120007] ['Quantity 2 Plus'] 
+
+68 = [WO# ] SEAN  O'PRY  RRU On Time [PO# 120008] ['shoesize missing', 'Fill Difference'] 
+
+69 = [WO# ] VINCE  SANT  RRU On Time [PO# 120009] ['device missing, dummy used'] 
+
+70 = [WO# ] J 101069 BROWNE  3day Rush [PO# 120010] ['Out Growth', 'Child Device Used'] 
+

@@ -1,0 +1,51 @@
+ Start Time: 21:24 09-16-2018 
+ End Time: 21:24 09-16-2018 
+ Time Elapsed: 0:00:00.011000 
+ New Orders: 0 Sub Orders: 0 / 0
+==========================
+FLAGGED ORDERS OF INTEREST
+==========================
+[PO# 108092] [WO# ] ALE-X  M'UNRO ['Out Growth 1st', 'Right Device', 'Left Device', 'Child Device Used', 'Fill Difference', 'HOLD REQ'] 
+
+[PO# 108093] [WO# ] D 75038 JONES ['Sameday Sub'] 
+
+[PO# 108094] [WO# ] 557411 A ['IW removed'] 
+
+[PO# 108095] [WO# ] B 179431 MCCOMB ['Foot Scan Error'] 
+
+[PO# 108099] [WO# ] NICHOLAS  GREGORY ['Out Growth Replacement'] 
+
+[PO# 108102] [WO# ] AARON  WATTS ['Out Growth Replacement', 'LFE Order', 'Child Device Used'] 
+
+[PO# 108110] [WO# ] ALISON  MCKEOWN ['HOLD REQ'] 
+
+[PO# 108112] [WO# ] KAY  HAMMOND ['ALT-Address'] 
+
+[PO# 108123] [WO# ] PAULINE  COOMBES ['LFE Order'] 
+
+[PO# 108124] [WO# ] TOM  HEALEY ['LFE Order'] 
+
+[PO# 108126] [WO# ] 98753 RAI ['LFE Order'] 
+
+[PO# 108127] [WO# ] 81302 STRANGE ['LFE Order'] 
+
+[PO# 108135] [WO# ] TYAS 07734 PETERSON ['LFE Order'] 
+
+[PO# 108140] [WO# ] NICOLA  JAMES ['LFE Order'] 
+
+[PO# 108141] [WO# ] RHIAN  WILLIAMS-FLEW ['LFE Order'] 
+
+[PO# 108151] [WO# ] MARY ANN  MULLAN ['Name Syntax Check'] 
+
+[PO# 120004] [WO# ] 439837 TALBOT ['Buddy'] 
+
+[PO# 120006] [WO# ] EVANDRO 186 SOLDATI ['Buddy', 'missing prev_po'] 
+
+[PO# 120007] [WO# ] PATRICK  LEBLANC ['Quantity 2 Plus'] 
+
+[PO# 120008] [WO# ] SEAN  O'PRY ['Shoesize missing', 'Fill Difference'] 
+
+[PO# 120009] [WO# ] VINCE  SANT ['Left Device', 'Device Missing'] 
+
+[PO# 120010] [WO# ] J 101069 BROWNE ['Out Growth 1st', 'Child Device Used'] 
+

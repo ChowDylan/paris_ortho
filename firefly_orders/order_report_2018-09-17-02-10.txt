@@ -1,0 +1,37 @@
+ Start Time: 02:10 09-17-2018 
+ End Time: 02:10 09-17-2018 
+ Time Elapsed: 0:00:00.011000 
+ New Orders: 24 Sub Orders: 26 / 7
+==========================
+FLAGGED ORDERS OF INTEREST
+==========================
+[PO# 108112] [WO# ] KAY  HAMMOND ['ALT-Address'] 
+
+[PO# 108123] [WO# ] PAULINE  COOMBES ['LFE Order'] 
+
+[PO# 108124] [WO# ] TOM  HEALEY ['LFE Order'] 
+
+[PO# 108126] [WO# ] 98753 RAI ['LFE Order'] 
+
+[PO# 108127] [WO# ] 81302 STRANGE ['LFE Order'] 
+
+[PO# 108135] [WO# ] TYAS 07734 PETERSON ['LFE Order'] 
+
+[PO# 108140] [WO# ] NICOLA  JAMES ['LFE Order'] 
+
+[PO# 108141] [WO# ] RHIAN  WILLIAMS-FLEW ['LFE Order'] 
+
+[PO# 108151] [WO# ] MARY ANN  MULLAN ['Name Syntax Check'] 
+
+[PO# 120004] [WO# ] 439837 TALBOT ['Buddy'] 
+
+[PO# 120006] [WO# ] EVANDRO 186 SOLDATI ['Buddy', 'missing prev_po'] 
+
+[PO# 120007] [WO# ] PATRICK  LEBLANC ['Quantity 2 Plus'] 
+
+[PO# 120008] [WO# ] SEAN  O'PRY ['Shoesize missing', 'Fill Difference'] 
+
+[PO# 120009] [WO# ] VINCE  SANT ['Left Device', 'Device Missing'] 
+
+[PO# 120010] [WO# ] J 101069 BROWNE ['Out Growth 1st', 'Child Device Used'] 
+

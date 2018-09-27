@@ -1,0 +1,9 @@
+ Start Time: 22:31 09-25-2018 
+ End Time: 22:31 09-25-2018 
+ Time Elapsed: 0:00:00 
+ New Orders: 0 Sub Orders: 1 / 1
+==========================
+FLAGGED ORDERS OF INTEREST
+==========================
+[PO# 114092] [WO# ] JAMES  BERRY ['LFE Order'] 
+

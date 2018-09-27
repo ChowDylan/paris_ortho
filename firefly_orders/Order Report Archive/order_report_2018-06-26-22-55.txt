@@ -1,0 +1,46 @@
+
+==========================
+FLAGGED ORDERS OF INTEREST
+==========================
+1 = ALE-X , M'UNRO [WO# ] [PO# 108092] ['Out Growth', 'hold request'] 
+
+2 = D 75038, JONES [WO# ] [PO# 108093] ['sameday suborder'] 
+
+4 = B 179431, MCCOMB [WO# ] [PO# 108095] ['foot to scan'] 
+
+8 = NICHOLAS , GREGORY [WO# ] [PO# 108099] ['Out Growth'] 
+
+11 = AARON , WATTS [WO# ] [PO# 108102] ['Out Growth', 'Child Device Used'] 
+
+19 = ALISON , MCKEOWN [WO# ] [PO# 108110] ['hold request'] 
+
+21 = KAY , HAMMOND [WO# ] [PO# 108112] ['alternate address', 'alternate address'] 
+
+32 = PAULINE , COOMBES [WO# ] [PO# 108123] ['LFE Order'] 
+
+33 = TOM , HEALEY [WO# ] [PO# 108124] ['LFE Order'] 
+
+35 = 98753, RAI [WO# ] [PO# 108126] ['LFE Order'] 
+
+36 = 81302, STRANGE [WO# ] [PO# 108127] ['LFE Order'] 
+
+37 = ANDY , HARVEY [WO# ] [PO# 108128] ['alternate address'] 
+
+44 = TYAS 07734, PETERSON [WO# ] [PO# 108135] ['LFE Order'] 
+
+49 = NICOLA , JAMES [WO# ] [PO# 108140] ['LFE Order'] 
+
+50 = RHIAN , WILLIAMS-FLEW [WO# ] [PO# 108141] ['LFE Order'] 
+
+64 = 439837, TALBOT [WO# ] [PO# 120004] ['buddy order'] 
+
+66 = EVANDRO 186, SOLDATI [WO# ] [PO# 120006] ['buddy order', 'missing prev_po'] 
+
+67 = PATRICK , LEBLANC [WO# ] [PO# 120007] ['Quantity 2 Plus'] 
+
+68 = SEAN , O'PRY [WO# ] [PO# 120008] ['shoesize missing'] 
+
+69 = VINCE , SANT [WO# ] [PO# 120009] ['device missing, dummy used'] 
+
+70 = J 101069, BROWNE [WO# ] [PO# 120010] ['Out Growth', 'Child Device Used'] 
+

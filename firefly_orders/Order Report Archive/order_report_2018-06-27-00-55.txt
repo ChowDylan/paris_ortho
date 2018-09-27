@@ -1,0 +1,114 @@
+ Start Time: 00:55 06-27-2018 
+ End Time: 00:55 06-27-2018 
+ Time Elapsed: 0:00:00.726000
+==========================
+FLAGGED ORDERS OF INTEREST
+==========================
+1 = [WO# ] ALE-X  M'UNRO  RRU On Time [PO# 108092] ['Out Growth', 'Child Device Used', 'hold request'] 
+
+2 = [WO# ] D 75038 JONES SUB RRU On Time [PO# 108093] ['sameday suborder'] 
+
+3 = [WO# ] 557411 A  RRU On Time [PO# 108094] ['IW removed', 'device missing, dummy used', 'device missing, dummy used'] 
+
+4 = [WO# ] B 179431 MCCOMB  RRU On Time [PO# 108095] ['device missing, dummy used', 'device missing, dummy used', 'foot to scan'] 
+
+5 = [WO# ] L 170901 CARTER  3day Rush [PO# 108096] ['device missing, dummy used', 'device missing, dummy used'] 
+
+6 = [WO# ] 311903 BUTCHER  3day Rush [PO# 108097] ['device missing, dummy used', 'device missing, dummy used'] 
+
+7 = [WO# ] THOMAS  MCMANUS  Standard [PO# 108098] ['device missing, dummy used', 'device missing, dummy used'] 
+
+8 = [WO# ] NICHOLAS  GREGORY  Standard [PO# 108099] ['Out Growth', 'device missing, dummy used', 'device missing, dummy used'] 
+
+9 = [WO# ] JOANNE  HOARE  RRU On Time [PO# 108100] ['device missing, dummy used', 'device missing, dummy used'] 
+
+10 = [WO# ] ELIZABETH  WALTON  RRU On Time [PO# 108101] ['device missing, dummy used', 'device missing, dummy used'] 
+
+11 = [WO# ] AARON  WATTS  Standard [PO# 108102] ['Out Growth', 'Child Device Used', 'device missing, dummy used', 'device missing, dummy used'] 
+
+12 = [WO# ] LYNN  MICKLEWRIGHT  RRU On Time [PO# 108103] ['device missing, dummy used', 'device missing, dummy used'] 
+
+13 = [WO# ] JEFF  WOODHOUSE  Standard [PO# 108104] ['device missing, dummy used', 'device missing, dummy used'] 
+
+14 = [WO# ] GRAHAM  COTES  Standard [PO# 108105] ['device missing, dummy used', 'device missing, dummy used'] 
+
+15 = [WO# ] DAVID  KEARNEY  Standard [PO# 108106] ['device missing, dummy used', 'device missing, dummy used'] 
+
+16 = [WO# ] MARTIN  CALDWELL  Standard [PO# 108107] ['device missing, dummy used', 'device missing, dummy used'] 
+
+17 = [WO# ] JOHN  LORD  Standard [PO# 108108] ['device missing, dummy used', 'device missing, dummy used'] 
+
+18 = [WO# ] PAUL  NORTON  Standard [PO# 108109] ['device missing, dummy used', 'device missing, dummy used'] 
+
+19 = [WO# ] ALISON  MCKEOWN  Standard [PO# 108110] ['device missing, dummy used', 'device missing, dummy used', 'hold request'] 
+
+20 = [WO# ] LIAM  HALPIN  Standard [PO# 108111] ['device missing, dummy used', 'device missing, dummy used'] 
+
+21 = [WO# ] KAY  HAMMOND  3day Rush [PO# 108112] ['device missing, dummy used', 'device missing, dummy used', 'alternate address', 'alternate address'] 
+
+22 = [WO# ] 08602 HARVEY  RRU On Time [PO# 108113] ['device missing, dummy used', 'device missing, dummy used'] 
+
+23 = [WO# ] PAUL  FOGARTY  Standard [PO# 108114] ['device missing, dummy used', 'device missing, dummy used'] 
+
+24 = [WO# ] PETER  MURDOCK  Standard [PO# 108115] ['device missing, dummy used', 'device missing, dummy used'] 
+
+25 = [WO# ] SAM  CROZIER  Standard [PO# 108116] ['device missing, dummy used', 'device missing, dummy used'] 
+
+26 = [WO# ] SHEILA  KELLY  Standard [PO# 108117] ['device missing, dummy used', 'device missing, dummy used'] 
+
+27 = [WO# ] KERRY  O'FLAHERTY  Standard [PO# 108118] ['device missing, dummy used', 'device missing, dummy used'] 
+
+28 = [WO# ] ANNE  HEALY  3day Rush [PO# 108119] ['device missing, dummy used', 'device missing, dummy used'] 
+
+29 = [WO# ] LAUREN  BEIRNE  Standard [PO# 108120] ['device missing, dummy used', 'device missing, dummy used'] 
+
+30 = [WO# ] PHIL  BURKE  Standard [PO# 108121] ['device missing, dummy used', 'device missing, dummy used'] 
+
+31 = [WO# ] MAUREEN  JORDAN  Standard [PO# 108122] ['device missing, dummy used', 'device missing, dummy used'] 
+
+32 = [WO# ] PAULINE  COOMBES SUB Standard [PO# 108123] ['LFE Order'] 
+
+33 = [WO# ] TOM  HEALEY SUB RRU On Time [PO# 108124] ['LFE Order'] 
+
+35 = [WO# ] 98753 RAI SUB 3day Rush [PO# 108126] ['LFE Order'] 
+
+36 = [WO# ] 81302 STRANGE SUB RRU On Time [PO# 108127] ['LFE Order'] 
+
+37 = [WO# ] ANDY  HARVEY SUB 3day Rush [PO# 108128] ['alternate address'] 
+
+44 = [WO# ] TYAS 07734 PETERSON SUB 3day Rush [PO# 108135] ['LFE Order'] 
+
+49 = [WO# ] NICOLA  JAMES SUB Standard [PO# 108140] ['LFE Order'] 
+
+50 = [WO# ] RHIAN  WILLIAMS-FLEW SUB Standard [PO# 108141] ['LFE Order'] 
+
+53 = [WO# ] CHARLOTTE  PEGMAN  RRU On Time [PO# 108144] ['device missing, dummy used', 'device missing, dummy used'] 
+
+54 = [WO# ] JENNIFER  KERR  Standard [PO# 108145] ['device missing, dummy used', 'device missing, dummy used'] 
+
+55 = [WO# ] FIONN  CALVERT  Standard [PO# 108146] ['device missing, dummy used', 'device missing, dummy used'] 
+
+56 = [WO# ] ANDREW  ROBSON  Standard [PO# 108147] ['device missing, dummy used', 'device missing, dummy used'] 
+
+57 = [WO# ] 36309 CORNFOOT  RRU On Time [PO# 108148] ['device missing, dummy used', 'device missing, dummy used'] 
+
+58 = [WO# ] 115706 JOHNSON  RRU On Time [PO# 108149] ['device missing, dummy used', 'device missing, dummy used'] 
+
+59 = [WO# ] 193655 CAMERON  RRU On Time [PO# 108150] ['device missing, dummy used', 'device missing, dummy used'] 
+
+60 = [WO# ] MARY ANN  MULLAN  Standard [PO# 108151] ['device missing, dummy used', 'device missing, dummy used'] 
+
+64 = [WO# ] 439837 TALBOT SUB Standard [PO# 120004] ['buddy order'] 
+
+65 = [WO# ] EVANDRO 186 SOLDATI  Standard [PO# 120005] ['device missing, dummy used', 'device missing, dummy used'] 
+
+66 = [WO# ] EVANDRO 186 SOLDATI SUB RRU On Time [PO# 120006] ['buddy order', 'missing prev_po'] 
+
+67 = [WO# ] PATRICK  LEBLANC  RRU On Time [PO# 120007] ['Quantity 2 Plus', 'device missing, dummy used', 'device missing, dummy used'] 
+
+68 = [WO# ] SEAN  O'PRY  RRU On Time [PO# 120008] ['shoesize missing', 'device missing, dummy used', 'device missing, dummy used'] 
+
+69 = [WO# ] VINCE  SANT  RRU On Time [PO# 120009] ['device missing, dummy used', 'device missing, dummy used'] 
+
+70 = [WO# ] J 101069 BROWNE  3day Rush [PO# 120010] ['Out Growth', 'Child Device Used', 'device missing, dummy used', 'device missing, dummy used'] 
+
